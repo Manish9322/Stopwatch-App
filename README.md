@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# ⏱️ Stopwatch App  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple yet powerful **Stopwatch App** built using **React.js, HTML, CSS, and JavaScript**. It features a sleek and responsive UI, allowing users to start, stop, reset, and record lap times effortlessly.  
 
-## Available Scripts
+![Stopwatch App](public/img/image.png)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features  
+✅ **Start / Stop / Reset** stopwatch functionality  
+✅ **Lap Time Recording** to track multiple intervals  
+✅ **Responsive Design** for all screen sizes  
+✅ **Optimized Performance** using React hooks  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used  
+- **React.js** – Frontend framework  
+- **JavaScript (ES6+)** – Logic and event handling  
+- **CSS3** – Styling and animations  
+- **HTML5** – Markup structure  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Copyright Notice:
+**Stopwatch-App**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Copyright © 2025 Manish Sonawane. All rights reserved.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project, **Stopwatch-App**, is released under the MIT License. Unauthorized use, modification, or distribution of the software or its components is prohibited unless explicitly stated under the terms of the license.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+By using or contributing to this project, you agree to comply with the terms and conditions defined in the license. You may use the software for personal, educational, or commercial purposes, provided that proper credit is given to the original authors.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### License Information:
+This project is licensed under the MIT License. Please refer to the `LICENSE` file in this repository for detailed license information. The terms of the license govern the use, distribution, and modification of the software. If you have any questions regarding the licensing, please contact **manishsonawane3010@gmail.com** (replace with your actual email).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Disclaimer:
+The software is provided "as-is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Trademarks:
+Any trademarks, service marks, or other marks associated with this project or its components are the property of their respective owners.
