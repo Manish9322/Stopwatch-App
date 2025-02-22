@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repo-name/static/css/main.4a70359e.css",
-    "main.js": "/repo-name/static/js/main.143ad462.js",
-    "static/js/453.bead9516.chunk.js": "/repo-name/static/js/453.bead9516.chunk.js",
-    "index.html": "/repo-name/index.html",
-    "main.4a70359e.css.map": "/repo-name/static/css/main.4a70359e.css.map",
-    "main.143ad462.js.map": "/repo-name/static/js/main.143ad462.js.map",
-    "453.bead9516.chunk.js.map": "/repo-name/static/js/453.bead9516.chunk.js.map"
+    "main.css": "/Stopwatch-App/static/css/main.4a70359e.css",
+    "main.js": "/Stopwatch-App/static/js/main.2b62eab1.js",
+    "static/js/453.bead9516.chunk.js": "/Stopwatch-App/static/js/453.bead9516.chunk.js",
+    "index.html": "/Stopwatch-App/index.html",
+    "main.4a70359e.css.map": "/Stopwatch-App/static/css/main.4a70359e.css.map",
+    "main.2b62eab1.js.map": "/Stopwatch-App/static/js/main.2b62eab1.js.map",
+    "453.bead9516.chunk.js.map": "/Stopwatch-App/static/js/453.bead9516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a70359e.css",
-    "static/js/main.143ad462.js"
+    "static/js/main.2b62eab1.js"
   ]
 }
